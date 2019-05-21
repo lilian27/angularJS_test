@@ -1,0 +1,15 @@
+node_modules/
+dist/
+dist_/
+borrar/
+app.templates.js
+/src/js/config/app.templates.js
+.sublime-gulp.cache
+package-lock.json
+.DS_Store
+src/css/sass.css
+war
+.tmp/
+.war
+build/
+.vscode
